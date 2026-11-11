@@ -1,0 +1,7 @@
+# Local captures and temporary files
+*.tmp
+*.log
+*.pcap
+*.pcapng
+.DS_Store
+Thumbs.db
